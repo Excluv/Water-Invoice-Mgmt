@@ -1,0 +1,6 @@
+USE master;
+
+IF NOT EXISTS(SELECT * FROM sys.databases WHERE name='QLNuoc')
+BEGIN
+CREATE DATABASE QLNuoc
+END;

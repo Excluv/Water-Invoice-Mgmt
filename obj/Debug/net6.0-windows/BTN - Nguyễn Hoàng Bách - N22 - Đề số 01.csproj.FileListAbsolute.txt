@@ -1,0 +1,39 @@
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.csproj.AssemblyReference.cache
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Home.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Properties.Resources.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.csproj.GenerateResource.cache
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.AssemblyInfoInputs.cache
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.AssemblyInfo.cs
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.csproj.CoreCompileInputs.cache
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.exe
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.deps.json
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.runtimeconfig.json
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.pdb
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Employee.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\refint\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.pdb
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.genruntimeconfig.cache
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\ref\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Add_Employee.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01.csproj.CopyComplete
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Search_Employee.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Edit_Employee.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Customer.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Add_Customer.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Edit_Customer.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Search_Customer.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Invoice.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Add_Invoice.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Edit_Invoice.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Search_Invoice_ByCustomer.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Search_Invoice_ByDate.resources
+C:\Users\jio\Desktop\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\BTN - Nguyễn Hoàng Bách - N22 - Đề số 01\obj\Debug\net6.0-windows\BTN___Nguyễn_Hoàng_Bách___N22___Đề_số_01.Search_Invoice_ByEmployee.resources

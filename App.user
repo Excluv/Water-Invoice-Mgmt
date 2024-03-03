@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Edit_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Edit_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Edit_Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search_Invoice_ByCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search_Invoice_ByDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search_Invoice_ByEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
